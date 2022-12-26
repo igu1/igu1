@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Eza And I Am A Dev
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java And Python
 - 📫 Email: eesaard@gmail.com
