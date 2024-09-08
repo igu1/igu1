@@ -118,7 +118,7 @@ django_donation_site:
   <a href="https://github.com/igu1">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-link-here">
+  <a href="https://www.linkedin.com/in/eesa-zakariyya-8a8a192a0/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://yourportfolio.com">
