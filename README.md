@@ -2,7 +2,7 @@
 
 > **_"Crafting code, automating tasks, and shaping the future."_**
 
-![Developer GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+![Developer GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 ---
 
