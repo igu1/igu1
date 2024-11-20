@@ -12,20 +12,17 @@
 {
   "username": "igu1",
   "real_name": "Eeza",
-  "title": "Full-Stack Developer | DevOps | Digital Marketer",
+  "title": "Full-Stack Developer | DevOps",
   "age_started_coding": 11,
   "skills": [
-    "Frontend: React, Next.js, Vite, TanStack",
+    "Frontend: Next.js, Vite React, TanStack",
     "Backend: Django, Flask, FastAPI, Bun runtime",
     "Databases: PostgreSQL, MongoDB, Redis",
     "DevOps: Docker, DigitalOcean, Celery, Redis",
-    "Mobile Development: Flutter",
-    "SEO Optimization"
   ],
   "roles": [
     "Full-Stack Developer",
     "DevOps Engineer",
-    "Digital Marketer"
   ]
 }
 ```
