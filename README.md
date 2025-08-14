@@ -20,4 +20,4 @@
 
 
 ## Should look like this : 
-<img width="320" height="409" alt="Screenshot 2025-08-14 105502" src="https://github.com/user-attachments/assets/ea35d5ae-bd28-4d4f-a07c-38bcfe7f6ab9" />
+<img width="302" height="395" alt="Screenshot 2025-08-14 105502" src="https://github.com/user-attachments/assets/d5e27935-163b-480b-9bcd-4ab6323e3e15" />
